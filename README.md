@@ -1,4 +1,4 @@
-# Hackaton
+# Hackaton - Команда httpsquad
 
 # Updating CSV-tables
 * При обновлении структуры roads_dataset.csv/rosstat_population_all_cities.csv запустить hexroads.py и ждать выполнения
